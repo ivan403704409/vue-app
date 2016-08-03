@@ -62,8 +62,8 @@ export default {
 			show3: false,
 			show4: false,
 			show5: false,
-			show6: false
-		},
+			show6: false,
+		}
 	}
 }
 </script>
